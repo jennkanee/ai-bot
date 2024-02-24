@@ -1,1 +1,1 @@
-# botAI
+# ai-bot
